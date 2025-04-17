@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaurenDiaz97
-- 👀 I’m interested in quantum physics
-- 🌱 I’m currently learning Python, MATLAB, and LabVIEW.
+- 👀 I’m interested in quantum physics.
+- 🌱 I’m currently learning Python, MATLAB, and Quantum Computing.
 - 💞️ I’m looking to collaborate on any project involving physics research.
 - 📫 How to reach me: Email me via my public email listed on my profile.
 - 😄 Pronouns: She/Her
