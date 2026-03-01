@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LaurenDiaz97
-- 👀 I’m interested in quantum physics.
-- 🌱 I’m currently learning Python, MATLAB, and Quantum Computing with Qiskit.
-- 💞️ I’m looking to collaborate on any project involving physics research.
-- 📫 How to reach me: Email me via my public email listed on my profile.
+- 👀 I’m interested in physics and quantum computing.
+- 🌱 I’m currently learning Python, MATLAB, and Quantum Computing.
+- 💞️ I’m looking to collaborate on any project involving physics or quantum computing research.
+- 📫 How to reach me: Email me via my public email listed on my profile or message me on LinkedIn.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love making things, both art and technology.
 
