@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaurenDiaz97
+- 👋 Hi, I’m Lauren Diaz!
 - 👀 I’m interested in physics and quantum computing.
 - 🌱 I’m currently learning Python, MATLAB, and Quantum Computing.
 - 💞️ I’m looking to collaborate on any project involving physics or quantum computing research.
